@@ -1,11 +1,13 @@
 # 7 A)DESIGN-AND-ANALYSIS-OF-HORN-ANTENNA-USING-CST-MICROWAVE-STUDIO
 
-**Aim of the Experiment:** To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
+**Aim of the Experiment:**
+
+To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns.
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
 
-**	Mathematical Calculation**
+**Mathematical Calculation**
 
 Tan θ/2 =a/2L 
 L=a
@@ -23,7 +25,7 @@ sing
 U a	L  2 we get a=110 mm for both E and H plane.
 8
 
-**Design of Horn Antenna**
+**Design of Horn Antenna**
 <img width="1598" height="686" alt="image" src="https://github.com/user-attachments/assets/7bae5813-0ba8-4bfe-b77b-482ee25a4b95" />
 ## Horn Aperture Design Parameters:
 <img width="314" height="336" alt="image" src="https://github.com/user-attachments/assets/c673bf1b-0a75-46e6-aa46-2dac8d0d68a7" />
