@@ -29,6 +29,7 @@ U a	L  2 we get a=110 mm for both E and H plane.
 WR90 Waveguide Dimension Setup:
 
 <img width="316" height="338" alt="image" src="https://github.com/user-attachments/assets/c3d1d820-97e1-45a9-93dd-098bc2f73897" />
+<img width="393" height="395" alt="image" src="https://github.com/user-attachments/assets/641c4a93-fe44-4007-b322-c890bbe33e6f" />
 
 **S11 characteristics**
 <img width="1591" height="682" alt="image" src="https://github.com/user-attachments/assets/362277c8-a9a2-4beb-8e98-02f9fa0f9895" />
