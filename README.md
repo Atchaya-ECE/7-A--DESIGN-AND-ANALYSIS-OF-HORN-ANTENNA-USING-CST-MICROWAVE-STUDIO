@@ -24,20 +24,41 @@ U a	L  2 we get a=110 mm for both E and H plane.
 8
 
 **Design of Horn Antenna**
+<img width="1598" height="686" alt="image" src="https://github.com/user-attachments/assets/7bae5813-0ba8-4bfe-b77b-482ee25a4b95" />
 
-<img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/6e6c4030-74e3-463e-b6d7-0a0c99a0e577" />
+WR90 Waveguide Dimension Setup:
+
+<img width="316" height="338" alt="image" src="https://github.com/user-attachments/assets/c3d1d820-97e1-45a9-93dd-098bc2f73897" />
 
 **S11 characteristics**
+<img width="1591" height="682" alt="image" src="https://github.com/user-attachments/assets/362277c8-a9a2-4beb-8e98-02f9fa0f9895" />
 
-<img width="624" height="189" alt="image" src="https://github.com/user-attachments/assets/daf91d14-03d2-4c29-b99c-bbd0074d331e" />
+## Electric Field (E-Field) Distribution inside Horn Antenna:
 
-**	Directive gain**
+<img width="1600" height="645" alt="image" src="https://github.com/user-attachments/assets/9c3af128-06fe-4118-96c1-a89e27ff2aba" />
 
-<img width="624" height="188" alt="image" src="https://github.com/user-attachments/assets/99819bac-017a-4567-b51d-b2e2c43a4d0b" />
+## Magnetic Field (H-Field) Distribution inside Horn Antenna:
 
-**Radiation Patterns and Half power beam width**
+<img width="1575" height="696" alt="image" src="https://github.com/user-attachments/assets/edf2a687-daeb-4f32-ad93-a25ff7551a74" />
 
-<img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
+## Voltage Standing Wave Ratio (VSWR) Plot
+<img width="1597" height="685" alt="image" src="https://github.com/user-attachments/assets/38b09416-9399-4408-b89c-632d9e5a8fcf" />
+
+## 3D Radiation Pattern of Pyramidal Horn Antenna:
+
+<img width="1562" height="672" alt="image" src="https://github.com/user-attachments/assets/b1dc5d30-5946-4e2c-8246-d4646d0129b7" />
+
+ ## Far-Field Directivity Pattern (Phi = 0°):
+
+ <img width="1561" height="665" alt="image" src="https://github.com/user-attachments/assets/df873a08-bc4a-49ec-9fff-fcdecba0d86e" />
+
+## Far-Field Directivity Pattern (Phi = 90°):
+
+ <img width="1566" height="663" alt="image" src="https://github.com/user-attachments/assets/bf44629e-430d-457c-adb2-4e7ea9df9e9f" />
+ 
+## Far-Field Directivity Pattern (Theta = 90°)
+
+<img width="1568" height="665" alt="image" src="https://github.com/user-attachments/assets/09a3c145-cd5a-41cb-a97f-e9700f2c44ac" />
 
 **Conclusion**
 
