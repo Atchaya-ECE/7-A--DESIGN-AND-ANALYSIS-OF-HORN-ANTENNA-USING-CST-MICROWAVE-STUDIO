@@ -23,7 +23,7 @@ L=horn length
 sing
  
 U a	L  2 we get a=110 mm for both E and H plane.
-8
+
 
 **Design of Horn Antenna**
 <img width="1598" height="686" alt="image" src="https://github.com/user-attachments/assets/7bae5813-0ba8-4bfe-b77b-482ee25a4b95" />
